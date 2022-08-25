@@ -4,7 +4,7 @@ All the electrical schematics and footprints I have created on Altium so far
 
 CONTENT : 
 
-- AFFICHEUR_7_SEGM_A_C SMD
+- AFFICHEUR_7_SEGM_A_C_3_DIGITS (QBTS560R)
 - AO4468 (30V N-Channel MOSFET Package SOIC-8)
 - CD74ACT283M (4-Bit Binary Fill Adder With Fast Carry)
 - CD4511 (CMOS BCD to 7 Segment Latch Decoder Drivers)
@@ -19,3 +19,4 @@ CONTENT :
 - QS32245QG (IC BUS SWITCH 1 X 8:1 20QSOP)
 - 74HC151D (IC MULTIPLEXER 1 X 8:1 16SOIC)
 - SPX3819M5 (IC REG LINEAR 5V 500MA SOT23-5)
+- AFFICHEUR_7_SEGM_A_C_1_DIGIT (VDMR10A1)
