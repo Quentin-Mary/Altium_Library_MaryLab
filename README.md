@@ -27,3 +27,4 @@ CONTENT :
 - SS12D00_5MM (SS12D00 - 5mm pin length / SMD footprint)
 - ESP32-C3FN4 (QFN-32 5x5mm)
 - SKRPANE010 (ALPSALPINE SKRPANE010 Push button)
+- NEO-6M (Ublox NEO-6M GPS Module)
