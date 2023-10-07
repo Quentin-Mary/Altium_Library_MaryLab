@@ -34,3 +34,4 @@ CONTENT :
 - Schottky Diode 0402 (RB161QS-40T18R;40V Single 600mV@1A 1A 0402 Schottky Barrier Diodes (SBD) ROHS)
 - USBLC6-2P6 (SOT-566 ESD Protection Devices ROHS)
 - MYOUNG MY-2450-01 (Battery button CR2450 SMD Battery Connectors ROHS)
+- TROQ R940000171 (40MHz 9pF ±10ppm SMD2016-4P Crystals ROHS)
