@@ -36,3 +36,4 @@ CONTENT :
 - MYOUNG MY-2450-01 (Battery button CR2450 SMD Battery Connectors ROHS)
 - TROQ R940000171 (40MHz 9pF ±10ppm SMD2016-4P Crystals ROHS)
 - NH-5050RGBA-SH (LED RGB SMD5050)
+- GT-USB-7010ASV (USB 2.0 3A 1 Surface Mount 16P Female -40℃~+85℃ Gold High Conductivity Copper Type-C SMD USB Connectors ROHS)
