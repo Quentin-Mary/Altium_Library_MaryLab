@@ -37,3 +37,4 @@ CONTENT :
 - TROQ R940000171 (40MHz 9pF ±10ppm SMD2016-4P Crystals ROHS)
 - NH-5050RGBA-SH (LED RGB SMD5050)
 - GT-USB-7010ASV (USB 2.0 3A 1 Surface Mount 16P Female -40℃~+85℃ Gold High Conductivity Copper Type-C SMD USB Connectors ROHS)
+- P4-0603RYGTCA1-0.6T (Double LED, colorless transparence -40℃~+85℃ Red, General Green/Yellow-Green 60mW 0603 Light Emitting Diodes (LED) ROHS)
