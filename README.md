@@ -41,3 +41,4 @@ CONTENT :
 - FPC 0.5-24P (Clamshell -25℃~+85℃ 24P Contact,Top Surface Mount 0.5mm SMD,P=0.5mm FFC/FPC Connectors ROHS)
 - MHP5050RGBDT (White Diffused -40℃~+85℃ RGB SMD5050 Light Emitting Diodes (LED) ROHS)
 - LP5562 (Four-Channel RGB- or White-LED Driver With Internal Program Memory and Independent Channel Control)
+- Class_6_NFC_Antenna (Class 6 NFC Antenna from NXP)
