@@ -46,3 +46,4 @@ CONTENT :
 - SHT41A-AD1B-R2 (4th Gen Humidity and Temperature Sensor I2C)
 - SI1308EDL (SOT323 N-Channel MOSFET)
 - XRCD32-680K (275mA 68uH ±10% 1.45Ω SMD,2.1x3mm Inductors (SMD) ROHS)
+- MBR0530 (30V 550mV@500mA 500mA SOD-123 Schottky Barrier Diodes (SBD) ROHS)
