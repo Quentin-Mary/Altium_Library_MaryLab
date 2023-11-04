@@ -45,3 +45,4 @@ CONTENT :
 - NT3H1101W0FHKH (NTAG I2C - Energy harvesting NFC Forum Type 2 Tag with field detection pin and I2C interface)
 - SHT41A-AD1B-R2 (4th Gen Humidity and Temperature Sensor I2C)
 - SI1308EDL (SOT323 N-Channel MOSFET)
+- XRCD32-680K (275mA 68uH ±10% 1.45Ω SMD,2.1x3mm Inductors (SMD) ROHS)
