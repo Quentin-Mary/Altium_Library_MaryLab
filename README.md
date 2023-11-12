@@ -47,3 +47,4 @@ CONTENT :
 - SI1308EDL (SOT323 N-Channel MOSFET)
 - XRCD32-680K (275mA 68uH ±10% 1.45Ω SMD,2.1x3mm Inductors (SMD) ROHS)
 - MBR0530 (30V 550mV@500mA 500mA SOD-123 Schottky Barrier Diodes (SBD) ROHS)
+- GT-USB-7014D (Sink board - USB 2.0 5A 1 Sink board 16P Female -40℃~+85℃ Gold High Conductivity Copper Type-C SMD USB Connectors ROHS)
